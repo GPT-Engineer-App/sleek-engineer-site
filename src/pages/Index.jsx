@@ -20,7 +20,7 @@ const Index = () => {
             <Heading as="h2" size="md">
               About
             </Heading>
-            <Text mt={2}>Julian Broudy is a Senior Software Engineer with over 10 years of experience specializing in modern JavaScript frameworks and scalable web architectures. He is passionate about building clean, user-friendly applications.</Text>
+            <Text mt={2}>Julian Broudy is a Senior Software Engineer with over 10 years of experience specializing in modern JavaScript frameworks and scalable web architectures. He is passionate about building clean, user-friendly applications. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</Text>
           </Box>
           <Box as="section" id="projects">
             <Heading as="h2" size="md">
