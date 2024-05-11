@@ -35,6 +35,14 @@ const Index = () => {
                 <Text fontWeight="bold">Project Two</Text>
                 <Text>An e-commerce platform optimized for mobile devices, using React Native. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
               </Link>
+              <Link href="https://github.com" isExternal>
+                <Text fontWeight="bold">Project Three</Text>
+                <Text>A real-time chat application using WebSocket and React. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
+              </Link>
+              <Link href="https://github.com" isExternal>
+                <Text fontWeight="bold">Project Four</Text>
+                <Text>A task management tool with drag-and-drop features, built with React and Redux. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
+              </Link>
             </VStack>
           </Box>
           <Box as="section" id="skills">
@@ -42,6 +50,8 @@ const Index = () => {
               Skills
             </Heading>
             <Text mt={2}>JavaScript, React, Node.js, Python, Docker. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
+            <Text mt={2}>Advanced proficiency in TypeScript and GraphQL. Extensive experience in building and maintaining APIs and web services.</Text>
+            <Text mt={2}>Skilled in CI/CD practices, automated testing, and cloud infrastructure management using AWS and Azure.</Text>
           </Box>
           <Box as="section" id="blog">
             <Heading as="h2" size="md">
@@ -49,6 +59,8 @@ const Index = () => {
             </Heading>
             <Link href="https://blog.julianbroudy.com" isExternal mt={2}>
               <Text>Visit my blog for more insights and tutorials. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
+              <Text>Explore detailed articles on the latest trends in software development, including AI and machine learning integrations in web applications.</Text>
+              <Text>Read case studies on successful project implementations, highlighting the challenges faced and solutions adopted.</Text>
             </Link>
           </Box>
           <Box as="section" id="contact">
