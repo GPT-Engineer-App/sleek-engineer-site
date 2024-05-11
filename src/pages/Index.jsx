@@ -9,7 +9,7 @@ const Index = () => {
   return (
     <Container maxW="container.xl" p={0} display="flex">
       <Flex direction="row" w="full">
-        <VStack position="absolute" left={0} top={0} h="100vh" w={{ base: "100%", md: "200px" }} bg="rgba(255, 255, 255, 0.9)" p={4} spacing={4} zIndex="overlay">
+        <VStack position="fixed" left={0} top={0} h="100vh" w="200px" bg="rgba(255, 255, 255, 0.8)" p={4} spacing={4}>
           <ChakraLink href="#about" p={2}>
             About
           </ChakraLink>
