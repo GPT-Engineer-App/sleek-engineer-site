@@ -20,7 +20,7 @@ const Index = () => {
             <Heading as="h2" size="md">
               About
             </Heading>
-            <Text mt={2}>Julian Broudy is a Senior Software Engineer with over 10 years of experience specializing in modern JavaScript frameworks and scalable web architectures. He is passionate about building clean, user-friendly applications. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</Text>
+            <Text mt={2}>Julian Broudy is a Senior Software Engineer with over 10 years of experience specializing in modern JavaScript frameworks and scalable web architectures. He is passionate about building clean, user-friendly applications. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
           </Box>
           <Box as="section" id="projects">
             <Heading as="h2" size="md">
@@ -29,11 +29,11 @@ const Index = () => {
             <VStack align="start" mt={2}>
               <Link href="https://github.com" isExternal>
                 <Text fontWeight="bold">Project One</Text>
-                <Text>A complex data visualization tool built with React and D3.js.</Text>
+                <Text>A complex data visualization tool built with React and D3.js. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
               </Link>
               <Link href="https://github.com" isExternal>
                 <Text fontWeight="bold">Project Two</Text>
-                <Text>An e-commerce platform optimized for mobile devices, using React Native.</Text>
+                <Text>An e-commerce platform optimized for mobile devices, using React Native. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
               </Link>
             </VStack>
           </Box>
@@ -41,14 +41,14 @@ const Index = () => {
             <Heading as="h2" size="md">
               Skills
             </Heading>
-            <Text mt={2}>JavaScript, React, Node.js, Python, Docker</Text>
+            <Text mt={2}>JavaScript, React, Node.js, Python, Docker. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
           </Box>
           <Box as="section" id="blog">
             <Heading as="h2" size="md">
               Blog
             </Heading>
             <Link href="https://blog.julianbroudy.com" isExternal mt={2}>
-              <Text>Visit my blog for more insights and tutorials.</Text>
+              <Text>Visit my blog for more insights and tutorials. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Text>
             </Link>
           </Box>
           <Box as="section" id="contact">
